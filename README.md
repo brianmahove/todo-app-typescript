@@ -39,41 +39,41 @@ Install dependencies
 
 npm install
 
-Start the app
+2. Start the app
 
 npm start
 
-Open in your browser
+3.Open in your browser
 
 http://localhost:3000
 
-Screenshots
+## Screenshots
 
-Add New Todo
+- Add New Todo
 
 ![Add New Todo Screenshot](screenshots/add-new-todo.png)
 
-Add Todo Form Empty
+- Add Todo Form Empty
 
 ![Add Todo Form Empty Screenshot](screenshots/add-todo-form-empty.png)
 
-Edit Todo
+- Edit Todo
 
 ![Edit Todo Screenshot](screenshots/edit.png)
 
-Todo List
+- Todo List
 
 ![Todo List Screenshot](screenshots/todo-list.png)
 
-Todo List 2
+- Todo List 2
 
 ![Todo List 2 Screenshot](screenshots/todo-list-2.png)
 
-Loading Spinner
+- Loading Spinner
 
 ![Loading Spinner Screenshot](screenshots/loading-spinner.png)
 
-Error Message
+- Error Message
 
 ![Error Message Screenshot](screenshots/error-message.png)
 
