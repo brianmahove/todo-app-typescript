@@ -43,19 +43,18 @@ Open in your browser
 
 http://localhost:3000
 
-
 Screenshots
+Add New Todo
 
-Edit
-Add Todo Form
+Add Todo Form Empty
+
+Edit Todo
 
 Todo List
-todo-list.png
+
+Todo List 2
+
 Loading Spinner
 
-Error Message
-
-
-git add README.md screenshots/
-git commit -m "Add README with screenshots"
+Error MessageE with screenshots"
 git push origin main
