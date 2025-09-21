@@ -7,14 +7,14 @@ Manage your tasks by adding, editing, completing, or deleting todos with an inte
 
 ## Features
 
-- Add new todos  
+- Add new todos
 - Edit todo title and description  
 - Mark todos as completed  
 - Delete todos  
 - Loading spinner while data is fetching  
 - Error messages with retry option  
 - Fully responsive and interactive UI
-
+  
 ---
 
 ## Tech Stack
@@ -46,7 +46,11 @@ http://localhost:3000
 Screenshots
 Add New Todo
 
+![Add New Todo Screenshot](screenshots/add_new_todo.png)
+
 Add Todo Form Empty
+
+![Add Todo Form Empty Screenshot](screenshots/add_todo_form-empty.png)
 
 Edit Todo
 
@@ -55,10 +59,10 @@ Todo List
 Todo List 2
 
 Loading Spinner
-
-Error MessageE with screenshots"
-<<<<<<< HEAD
-git push origin main
-=======
-git push origin main
->>>>>>> 58a901411b7a4f4c07afa1cf7fe9774f71d5dabf
+![Add New Todo Screenshot](screenshots/add_new_todo.png)
+![Add Todo Form Empty Screenshot](screenshots/add_todo_form-empty.png)
+![Edit Todo Screenshot](screenshots/edit.png)
+![Error Message Screenshot](screenshots/error-message.png)
+![Loading Spinner Screenshot](screenshots/loading-spinner.png)
+![Todo List 2 Screenshot](screenshots/todo_list 2.png)
+![Todo List Screenshot](screenshots/todo_list.png)
