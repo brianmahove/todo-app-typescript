@@ -57,4 +57,8 @@ Todo List 2
 Loading Spinner
 
 Error MessageE with screenshots"
+<<<<<<< HEAD
 git push origin main
+=======
+git push origin main
+>>>>>>> 58a901411b7a4f4c07afa1cf7fe9774f71d5dabf
