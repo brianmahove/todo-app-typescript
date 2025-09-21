@@ -32,37 +32,49 @@ Manage your tasks by adding, editing, completing, or deleting todos with an inte
 
 https://github.com/brianmahove/todo-app-typescript.git
 
+
 cd todo-app
+
 Install dependencies
 
 npm install
+
 Start the app
 
 npm start
+
 Open in your browser
 
 http://localhost:3000
 
 Screenshots
+
 Add New Todo
 
-![Add New Todo Screenshot](screenshots/add_new_todo.png)
+![Add New Todo Screenshot](screenshots/add-new-todo.png)
 
 Add Todo Form Empty
 
-![Add Todo Form Empty Screenshot](screenshots/add_todo_form-empty.png)
+![Add Todo Form Empty Screenshot](screenshots/add-todo-form-empty.png)
 
 Edit Todo
 
+![Edit Todo Screenshot](screenshots/edit.png)
+
 Todo List
+
+![Todo List Screenshot](screenshots/todo-list.png)
 
 Todo List 2
 
+![Todo List 2 Screenshot](screenshots/todo-list-2.png)
+
 Loading Spinner
-![Add New Todo Screenshot](screenshots/add_new_todo.png)
-![Add Todo Form Empty Screenshot](screenshots/add_todo_form-empty.png)
-![Edit Todo Screenshot](screenshots/edit.png)
-![Error Message Screenshot](screenshots/error-message.png)
+
 ![Loading Spinner Screenshot](screenshots/loading-spinner.png)
-![Todo List 2 Screenshot](screenshots/todo_list 2.png)
-![Todo List Screenshot](screenshots/todo_list.png)
+
+Error Message
+
+![Error Message Screenshot](screenshots/error-message.png)
+
+
