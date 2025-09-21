@@ -5,7 +5,7 @@ Manage your tasks by adding, editing, completing, or deleting todos with an inte
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add new todos  
 - Edit todo title and description  
@@ -17,7 +17,7 @@ Manage your tasks by adding, editing, completing, or deleting todos with an inte
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **React**  
 - **TypeScript**  
@@ -26,75 +26,36 @@ Manage your tasks by adding, editing, completing, or deleting todos with an inte
 
 ---
 
-## ⚡ Installation
+## Installation
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+https://github.com/brianmahove/todo-app-typescript.git
+
 cd todo-app
 Install dependencies
 
-bash
-Copy code
 npm install
 Start the app
 
-bash
-Copy code
 npm start
 Open in your browser
 
 http://localhost:3000
 
-🗂 Project Structure
-pgsql
-Copy code
-todo-app/
-├─ public/
-├─ src/
-│  ├─ api/            # mock API
-│  ├─ components/     # all UI components
-│  ├─ hooks/          # custom hooks
-│  ├─ styles/         # CSS files
-│  ├─ types/          # TypeScript types
-│  ├─ App.tsx
-│  └─ index.tsx
-├─ package.json
-├─ tsconfig.json
-└─ README.md
-📸 Screenshots
+
+Screenshots
+
+Edit
 Add Todo Form
 
 Todo List
-
+todo-list.png
 Loading Spinner
 
 Error Message
 
-Place your screenshots in the screenshots/ folder in the project root.
 
-📄 License
-MIT License
-
-markdown
-Copy code
-
----
-
-✅ **Next Steps for GitHub**
-
-1. Make a folder called `screenshots/` in your project root.  
-2. Put your screenshots there with these names:  
-
-- `add-todo-form.png`  
-- `todo-list.png`  
-- `loading-spinner.png`  
-- `error-message.png`  
-
-3. Push everything to GitHub:
-
-```bash
 git add README.md screenshots/
 git commit -m "Add README with screenshots"
 git push origin main
