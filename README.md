@@ -30,22 +30,21 @@ Manage your tasks by adding, editing, completing, or deleting todos with an inte
 
 1. **Clone the repository**
 
-https://github.com/brianmahove/todo-app-typescript.git
+- https://github.com/brianmahove/todo-app-typescript.git
+- cd todo-app
 
+2. **Install dependencies**
 
-cd todo-app
+- npm install
 
-Install dependencies
+3. **Start the app**
+   
+- npm start
 
-npm install
+4. **Open in your browser**
 
-2. Start the app
-
-npm start
-
-3.Open in your browser
-
-http://localhost:3000
+- http://localhost:3000
+---
 
 ## Screenshots
 
